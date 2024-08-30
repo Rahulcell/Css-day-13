@@ -186,9 +186,7 @@ main > div > p > b {
 .kpar div :nth-child(3){
   color:grey;
 }
-.kpar div :nth-child(4){
-  
-}
+
 @media screen and (max-width: 980px) and (min-width: 680px) {
   .ipar {
     display: grid;
